@@ -1,0 +1,23 @@
+{
+  "name": "nosql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MA15/noSQL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MA15/noSQL/issues"
+  },
+  "homepage": "https://github.com/MA15/noSQL#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.7"
+  }
+}
